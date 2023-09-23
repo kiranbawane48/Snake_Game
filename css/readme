@@ -1,0 +1,18 @@
+
+#scoreBox{
+    position: absolute;
+    top: 30px; /* Move it down by increasing the top value */
+    right: 270px; /* Move it left by increasing the right value */
+    display: grid;
+    font-family: 'Pacifico', cursive; /* Apply the Pacifico font */
+    font-size: 40px; /* Adjust the font size as needed */
+    
+  }
+  #highscoreBox{
+    position: absolute;
+    top: 90px; /* Move it down by increasing the top value */
+    right: 260px; /* Move it left by increasing the right value */
+    display: grid;
+    font-family: 'Pacifico', cursive; /* Apply the Pacifico font */
+    font-size: 25px; 
+}
