@@ -14,6 +14,6 @@ It is a Snake Game website It build by using HTML, CSS, and JavaScript. Dive int
 
 **Demo:**
 <div align="center">
-  <img src="https://github.com/kiranbawane48/Snake_Game/assets/100428197/603b294b-19a9-4122-a506-205249b2a093" alt="Image" width="300" height="300">
+  <img src="https://github.com/kiranbawane48/Snake_Game/assets/100428197/603b294b-19a9-4122-a506-205249b2a093" alt="Image" width="400" height="300">
 </div>
 
